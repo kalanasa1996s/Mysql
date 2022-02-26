@@ -1,6 +1,8 @@
 # Mysql
 MySQL Commands
 
+    | CREATE | DROP | SHOW | DESCRIBE | INSERTINTO | DELETE |
+
   1). Create Database
       
       create database dbname;
@@ -46,4 +48,5 @@ MySQL Commands
   11).Delete table data (AThogakade DB)
   
       delete from customer where CustID = "C033"; 
-      
+     
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
