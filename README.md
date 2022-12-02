@@ -48,5 +48,13 @@ MySQL Commands
   11).Delete table data (AThogakade DB)
   
       delete from customer where CustID = "C033"; 
-     
+
+  12).Join Query Mysql
+  
+  
+   ![a drawio](https://user-images.githubusercontent.com/47558327/205293113-1ac78ef2-0bf9-438c-9b73-3b2e7471139f.png)
+       
+       
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
